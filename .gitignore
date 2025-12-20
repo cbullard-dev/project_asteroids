@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Game Logs
+game_state.jsonl
+
 # Byte-compiled / optimized / DLL files
 *.py[codz]
 *$py.class
